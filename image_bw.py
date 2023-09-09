@@ -4,7 +4,7 @@ or color.
 
 ACKNOWLEDGEMENTS:
 This algorithm is from Stack Exchange by author Noah Whitman.
-This algorithm was posted on April 2014 and is licensed under
+This algorithm was posted in April 2014 and is licensed under
 Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0).
 
 Link to license: https://creativecommons.org/licenses/by-sa/3.0/
